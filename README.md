@@ -1,5 +1,5 @@
-# web-scraper
-#Implementation of web scraping on Amazon.in and Indeed.com using BeautifulSoup and Python
+# Web-scraper
+Implementation of web scraping on Amazon.in and Indeed.com using BeautifulSoup and Python
 
 1) Amazon-webscraper
 
